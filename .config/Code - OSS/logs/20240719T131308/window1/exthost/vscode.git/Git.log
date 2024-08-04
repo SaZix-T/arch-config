@@ -1,0 +1,6 @@
+2024-07-19 13:13:12.452 [info] Уровень ведения журнала: Info
+2024-07-19 13:13:12.452 [info] Проверка найденного Git в: "git"
+2024-07-19 13:13:12.452 [info] Используется Git "2.45.2" из "git"
+2024-07-19 13:13:14.391 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-19 13:13:14.391 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

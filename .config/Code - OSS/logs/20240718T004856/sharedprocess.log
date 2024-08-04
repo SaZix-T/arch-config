@@ -1,0 +1,27 @@
+2024-07-18 00:49:00.226 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sazix/.vscode-oss/extensions
+2024-07-18 00:49:00.451 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sazix/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sazix/.vscode-oss/extensions/extensions.json.vsctmp'
+    at h.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-18 00:49:00.453 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/sazix/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/sazix/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-18 00:49:00.454 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sazix/.vscode-oss/extensions
+2024-07-18 00:49:58.688 [info] Getting Manifest... mvllow.rose-pine
+2024-07-18 00:49:58.916 [info] Installing extension: mvllow.rose-pine {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sazix/.vscode-oss/extensions/extensions.json","path":"/home/sazix/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-12T15:10:53.972Z"}}
+2024-07-18 00:49:59.872 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-07-18 00:49:59.874 [info] Extension signature verification is not done: mvllow.rose-pine
+2024-07-18 00:50:00.019 [info] Extracted extension to file:///home/sazix/.vscode-oss/extensions/mvllow.rose-pine-2.10.0-universal: mvllow.rose-pine
+2024-07-18 00:50:00.028 [info] Renamed to /home/sazix/.vscode-oss/extensions/mvllow.rose-pine-2.10.0-universal
+2024-07-18 00:50:00.070 [info] Extension installed successfully: mvllow.rose-pine vscode-userdata:/home/sazix/.vscode-oss/extensions/extensions.json
+2024-07-18 00:50:00.103 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sazix/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sazix/.vscode-oss/extensions/extensions.json.vsctmp'
+    at h.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)

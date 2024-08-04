@@ -1,0 +1,4 @@
+2024-07-18 00:48:59.325 [info] Started local extension host with pid 5631.
+2024-07-18 00:48:59.587 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sazix/.vscode-oss/extensions
+2024-07-18 00:49:00.351 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sazix/.vscode-oss/extensions
+2024-07-18 00:49:03.409 [info] [perf] Render performance baseline is 85ms
