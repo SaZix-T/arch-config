@@ -1,0 +1,32 @@
+- nvim
+- wofi (apps launch bar)
+- neofetch
+- fastfetch
+- waybar (bar at top)
+- kitty
+- thunar (file manager)
+- vivaldi
+- hyprpaper (wallpapers)
+- pavucontrol (sound control)
+- obsidian
+- git
+- gdm
+- yay (AUR)
+- graphite-gtk-theme
+- nwg-look (settings theme)
+- papirus-icon-theme 
+- ttf-jetbrains-mono (for bar)
+- ttf-font-awesome (for bar)
+- hyprlock (lock screen)
+- telegram-desktop
+- gvim (for ctr+c from nvim)
+- ttf-jetbrains-mono-nerd
+- code (vscode)
+- cava (music visualize)
+- btop
+- grim (for screenshot), slurp (for cool screenshot)
+- linux-lts (for stability... yes on arch)
+- rsync (for backups)
+- nvidia-dkms
+- egl-wayland (from wiki of hyprland)
+- downgrade
